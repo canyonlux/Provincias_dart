@@ -16,17 +16,16 @@ La aplicación se utiliza desde la línea de comandos y admite dos subórdenes p
 
 Ejemplos de Comandos
 
-    Listar comarcas de Castellón:
+    Listar comarcas de Alacant:
 
-    bash
+    dart run main.dart comarques Alacant
 
-$ dart run tasca2 comarcas Castellón
 
 Obtener información de la comarca "La Ribera Baixa":
 
 bash
 
-    $ dart run tasca2 infocomarca "La Ribera Baixa"
+    $ dart run main.dart infocomarca "La Ribera Baixa"
 
     Nota: Recuerda escapar los apóstrofos en los nombres de comarcas, por ejemplo: L\'alcoià.
 
