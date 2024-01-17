@@ -1,5 +1,5 @@
 
-Aplicación de Consola: Información de Provincias y Comarcas del País Valencià
+******Aplicación de Consola: Información de Provincias y Comarcas del País Valencià******
 
 Esta aplicación de consola, desarrollada en Dart, permite al usuario obtener información detallada sobre las provincias y comarcas del País Valencià, utilizando un API REST para las consultas.
 Características
@@ -22,8 +22,6 @@ Ejemplos de Comandos
 
 
 Obtener información de la comarca "La Ribera Baixa":
-
-bash
 
     $ dart run main.dart infocomarca "La Ribera Baixa"
 
@@ -54,6 +52,5 @@ Ejemplos de Respuestas
     Consulta de información de una comarca.
     Manejo de errores diversos.
 
-Desarrollo y Contribuciones
 
-Este proyecto está desarrollado en Dart. Las contribuciones son bienvenidas siguiendo los estándares habituales de pull request en GitHub.
+
